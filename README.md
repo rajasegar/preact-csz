@@ -1,6 +1,10 @@
-# New Project
+# preact-csz
+
+Simple Preact App with [csz](https://github.com/lukejacksonn/csz) for styling
 
 > ✨ Bootstrapped with Create Snowpack App (CSA).
+
+csz is Runtime CSS modules with SASS like preprocessing
 
 ## Available Scripts
 
